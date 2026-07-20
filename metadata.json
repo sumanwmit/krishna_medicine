@@ -1,0 +1,6 @@
+{
+  "name": "Krishna Medicine House",
+  "description": "Premium, trusted pharmacy and healthcare retail store in Belaganj, Gaya, Bihar. Providing authentic prescription drugs, OTC medicines, and health consultations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
