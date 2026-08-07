@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://krishna-medicine.vercel.app/sitemap.xml
