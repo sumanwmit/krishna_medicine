@@ -281,15 +281,8 @@ export default function Footer() {
             &copy; {new Date().getFullYear()} <span className="text-slate-400 font-semibold">{BUSINESS_INFO.name}</span>. All rights reserved.
           </p>
           <p>
-            Developed by{' '}
-            <a
-              href="https://main.webmakerit.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-teal-500 hover:text-teal-400 font-bold inline-flex items-center transition"
-            >
-              WMIT <ExternalLink className="w-3 h-3 ml-0.5" />
-            </a>
+            {' '}
+           <a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer">Developed by WMIT</a>
           </p>
         </div>
 
